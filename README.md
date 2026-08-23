@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/magocoder-yo)
+I'm currently working on detecting Diabetic Retinopathy using a CNN, see the pinned project below.
+
+Feel free to see my progress and completed challenges in LeetCode below:
+![Leetcode Stats](https://leetcard.jacoblin.cool/magocoder-yo?ext=heatmap)
