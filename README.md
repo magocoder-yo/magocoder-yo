@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/<Your_Leetcode_Username>)
+![Stats](https://leetcode-status.vercel.app/api/card/iyehah?theme=gradient&gradient_start=%236366F1&gradient_end=%23A855F7&logo=true&custom_title=Iyehah%20Hacen)
